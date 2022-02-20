@@ -1,0 +1,61 @@
+Como función del SGSI es analizar constantemente la organización, se analizan cuestiones internas y externas que afecten en alguna medida la seguridad de la información y que son pertinentes de los objetivos del negocio 
+Comprender el contexto para decidir el alcance del SGSI
+Analizar el contexto para determinar los riesgos u las oportunidades 
+Asegurar que el SGSI están adoptados a las cuestiones externas e internas cambiantes 
+Cuestiones externas:
+•	Naturaleza
+•	sociedad y cultura
+•	tecnología
+•	competencia
+•	financiero /macroeconómica 
+•	política, legal, normativo y reglamentario 
+Cuestiones internas:
+•	Cultura organizacional
+•	Políticas objetivos y estrategias
+•	Gobiernos, la estructura organizacional, roles y las responsabilidades
+•	Normas, las directrices u los modelos adoptados
+•	Procesos y procedimientos 
+•	Las auditorias previas y los resultados de valoraciones de riesgo previas 
+•	Los sistemas de información, los flujos de información y los procesos de toma de decisiones 
+•	La infraestructura física y el ambiente 
+•	Capacidades, en términos de recursos y conocimiento  
+
+Herramientas para realizar análisis internos 
+DOFA: Positivo (Fortalezas y Oportunidades), Negativo (Debilidades y Amenazas)
+PESTEL: Político, Económico, Social, Tecnológico, Ecológico, y Legal
+Partes interesadas internas: 
+•	Tomadores de decisiones 
+•	Alta dirección
+•	Dueños de procesos, sistemas e información
+•	Soporte y recurso humano
+•	Empleados y usuarios 
+Partes interesadas externas:
+•	Reguladores y legisladores
+•	Accionistas, inversionistas y propietarios 
+•	Proveedores
+•	Asociaciones industriales
+•	Competidores 
+•	Clientes y consumidores
+•	Activistas 
+
+Alcance del SGSI 
+•	Define donde y para que es aplicable un SGSI
+•	Define donde y para que no es aplicable un SGSI
+•	Define la actividad clave para la implementación de un SGSI
+•	Tener en cuenta el contexto de la organización cuestiones internas y externas
+•	Requisitos y expectativas de las partes interesadas
+
+Elementos a tener en cuenta al definir un alcance 
+1.	Considerar los requisitos de seguridad que se han identificado
+2.	Considerar los servicios críticos que podrían generar un impacto negativos en la organización, clientes y partes interesadas como resultado de una perdida de confidencialidad, integridad o disponibilidad
+3.	Definir el alcance y los límites de la organización
+4.	Definir el alcance y los límites de las TICs
+5.	Definir el alcance físico y los limites
+6.	Integrar al alcance y limites elementales para obtener el alcance y los límites del SGSI
+7.	Considerar las actividades externalizadas, así como las interfaces y dependencias requeridas 
+
+Enfoque multietapas
+Determinar el alcance preliminar: Esta actividad la debería llevar a cabo un grupo pequeño pero representativo de directivos de alto nivel
+Determinar el alcance perfeccionado: las unidades funcionales dentro y fuera del alcance preliminar deberían revisar, y posiblemente luego se deberían incluir o excluir alguna de estas unidades funcionales para reducir el numero de interfaces a lo largo de los limites 
+Determinar el alcance final: el alcance perfeccionado debería ser evaluado por toda la dirección dentro del alcance perfeccionado, si es necesario, se deberían ajustar y luego describir con precisión.
+Aprobación del alcance: la información documentada que describe el alcance la debería aprobar formalmente la alta dirección.

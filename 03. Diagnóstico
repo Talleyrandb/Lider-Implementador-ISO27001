@@ -1,0 +1,36 @@
+Análisis de brecha
+También llamado análisis GAP o análisis de deficiencias
+Consiste en un análisis de cumplimiento tanto de los requisitos de la norma ISO 27001 como de los controles del anexo a ISO 27002
+El propósito es identificar el estado actual, establecer pasos para cerrar las brechas, para alcanzar la situación deseada 
+Los objetivos del análisis de brechas son:
+Establecer un punto de partida para implementar la norma ISO 27001 y evaluar el esfuerzo necesario y elaborar un plan de implementación.
+Evaluar el progreso en el proceso de implementación y medir el grado de avance 
+Como realizar un análisis de brecha:
+1.	Seleccionar un modelo de madurez 
+2.	Aplicar encuesta 
+
+¿Qué es un modelo de madurez? 
+Es un conjunto de elementos y actividades que describen el nivel de madurez de un aspecto determinado 
+
+Modelos de madurez más comunes
+COBIT modelo de madurez {Control Objectives for Information and related Technology} más utilizado en auditoria
+CMMI {Capability Maturity Model Integration}
+SSE/CMM
+CERT/CSO
+NIST-CSEAT
+ISM3
+CITI ISEM
+ ¿Para qué sirve un modelo de madurez? 
+Permite medir el estado actual
+Permite definir donde debo estar
+Permite establecer planes para alcanzar objetivos a donde quiero llegar
+Permite medir y gestionar el crecimiento y evolución 
+
+Modelo de madurez COBIT
+0 – No existente (no se aplica la administración del proceso)
+1 – Inicial (los procesos no tienen un orden o ejecutante definido y desorganizado)
+2 – Repetible (los procesos siguen un patrón regular)
+3 – Definido (los procesos de documentan y se comunican)
+4 – Administrado (los procedimientos se monitorean y se miden)
+5 – Optimizado (se emplean buenas prácticas y están automatizadas) 
+Por medio de encuestas con preguntas asertivas permite identificar el nivel de madurez para cada uno de los requisitos y controles de la ISO/IEC 27001.

@@ -23,6 +23,7 @@ Contenido de lo política
 •	La estructura y los procesos de la organización 
 •	El grupo objetivo al que va dirigida la política
 •	Requisitos de políticas de mayor nivel 
+
 Los propósitos y los objetivos de la organización en el área de la política 
 Estructura de la política 
 Administrativa: nombre de la política , versión, fecha de publicación, fecha de validez, historia de cambios, dueños o personas que la autorizan, clasificación, etc.
@@ -42,3 +43,21 @@ Dirige las actividades de seguridad de la información de la organización
 Expresa las necesidades de seguridad de la información en el contexto real de la organización 
 
 Roles y responsabilidades
+La alta dirección debe asignar responsabilidades y autoridad con las siguientes actividades de seguridad de la información
+
+•	Coordinar el establecimiento, implementación y mantenimiento, reporte de desempeño y mejora del SGSI
+•	Asesorar con relación a la valoración y tratamiento de riesgos de seguridad de la información 
+•	Diseñar procesos y sistemas de seguridad de la información 
+•	Establecer estándares acerca de la determinación, configuración y operación de controles de seguridad de la información
+•	Gestionar los incidentes de seguridad de la información
+•	Revisar y auditar el SGSI 
+
+Ejemplos de responsabilidad para el SGSI de acuerdo con el rol
+•	Diseño de la información
+•	Dueños de procesos
+•	Dueño de activos 
+•	Dueño de riesgos 
+•	Coordinadores de seguridad de la información 
+•	Gerentes de proyectos
+•	Gerentes de línea
+•	Usuarios de información 

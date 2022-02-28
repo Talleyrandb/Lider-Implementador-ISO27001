@@ -10,38 +10,58 @@ Tratamiento del riesgo
 Comunicar y consultar
 Seguimiento y revisión 
 
-Identificación del riesgo: es el proceso de encontrar, reconocer y describir riesgos. Esto incluye la identificación de fuentes de riesgo, los eventos, las causas y consecuencias potenciales 
-El objetivo de la identificación de riesgos es generar una lista amplia de riesgos con base en los eventos que podrían crear, mejorar, prevenir, delegar, acelerar o retrasar el logro de los objetivos de seguridad de la información. 
-Enfoque 1: basado en eventos, considera las fuentes de riesgo de una forma genérica, los eventos considerados pueden haber ocurrido en el pasado o se pueden prever para el futuro. En el primer caso se pueden involucrar datos históricos, en el segundo caso se pueden basar en el análisis teórico y en opiniones de expertos.
-Enfoque 2: basado en identificación de activos, amenazas y vulnerabilidades, considera dos tipos diferentes de fuentes de riesgo: activos con sus vulnerabilidades intrínsecas y amenazas, los eventos potenciales de como una amenaza puede aprovecharse de determinada vulnerabilidad de un activo para impactar los objetivos de la organización. 
-Análisis de riesgo
-Tiene como objetivo determinar el nivel del riesgo, se usa la ISO 31000 para determinar el nivel del riesgo el cual se basa en las consecuencias resultantes del riesgo y la probabilidad de que esas consecuencias ocurran 
+Identificación del riesgo: 
+
+Es el proceso de encontrar, reconocer y describir riesgos. Esto incluye la identificación de fuentes de riesgo, los eventos, las causas y consecuencias potenciales 
+El objetivo de la identificación de riesgos es generar una lista amplia de riesgos con base en los eventos que podrían crear, mejorar, prevenir, delegar, acelerar o retrasar 
+el logro de los objetivos de seguridad de la información. 
+Enfoque 1: basado en eventos, considera las fuentes de riesgo de una forma genérica, los eventos considerados pueden haber ocurrido en el pasado o se pueden prever para 
+el futuro. En el primer caso se pueden involucrar datos históricos, en el segundo caso se pueden basar en el análisis teórico y en opiniones de expertos.
+Enfoque 2: basado en identificación de activos, amenazas y vulnerabilidades, considera dos tipos diferentes de fuentes de riesgo: activos con sus vulnerabilidades 
+intrínsecas y amenazas, los eventos potenciales de como una amenaza puede aprovecharse de determinada vulnerabilidad de un activo para impactar los objetivos 
+de la organización. 
+
+Análisis del riesgo: 
+
+Tiene como objetivo determinar el nivel del riesgo, se usa la ISO 31000 para determinar el nivel del riesgo el cual se basa en las consecuencias resultantes del riesgo y 
+la probabilidad de que esas consecuencias ocurran 
 Riesgo basado en consecuencias y probabilidad se basan en:
 1.	Cualitativa: mediante una escala de atributos de calificación (alto, medio, bajo)
 2.	Cuantitativa, mediante una escala con valores numéricos (costo monetario, frecuencia o probabilidad de que ocurra)
-3.	Semicuantitativa, que usa escalas cuantitativas con valores asignados. Cualquiera que sea la técnica de análisis de riesgo usada, se debería considerar su nivel de objetividad.
+3.	Semicuantitativa, que usa escalas cuantitativas con valores asignados. Cualquiera que sea la técnica de análisis de riesgo usada, se debería considerar su nivel de 
+objetividad.
 
-Los enfoques basados en eventos y el enfoque basado en identificación de activos, amenazas y vulnerabilidades pueden ser adecuados para el análisis de riesgos de seguridad de la información, lo anterior apoyado con expertos en riesgos 
-Valoración del riesgo 
-Es un proceso de toma de decisiones de la organización para comprobar el nivel valorado de riesgo para para cada riesgo con los criterios de aceptación predeterminados, para determinar las opciones de tratamiento de riesgos. En este punto se verifica si el riesgo que ha sido analizado puede ser aceptado de acuerdo con los criterios de aceptación definidos, como resultado de esta actividad debe salir un listado de riesgos en orden de prioridad.
+Los enfoques basados en eventos y el enfoque basado en identificación de activos, amenazas y vulnerabilidades pueden ser adecuados para el análisis de riesgos de seguridad 
+de la información, lo anterior apoyado con expertos en riesgos 
+
+Valoración del riesgo:
+
+Es un proceso de toma de decisiones de la organización para comprobar el nivel valorado de riesgo para para cada riesgo con los criterios de aceptación predeterminados, 
+para determinar las opciones de tratamiento de riesgos. En este punto se verifica si el riesgo que ha sido analizado puede ser aceptado de acuerdo con los criterios de 
+aceptación definidos, como resultado de esta actividad debe salir un listado de riesgos en orden de prioridad.
+
 Tratamiento del riesgo 
-Es un proceso global de selección de opciones de tratamiento de riesgos, determinación de controles apropiados para implementar estas opciones, formulación de un plan de tratamiento de riesgos y la obtención de aprobación del plan de tratamiento de riesgos por parte de los dueños de los riesgos
+Es un proceso global de selección de opciones de tratamiento de riesgos, determinación de controles apropiados para implementar estas opciones, formulación de un plan de 
+tratamiento de riesgos y la obtención de aprobación del plan de tratamiento de riesgos por parte de los dueños de los riesgos
 
-Opciones de tratamiento de los riesgos 
+Opciones de tratamiento de los riesgos son:
 Evitar el riesgo 
 Asumir el riesgo 
 Modificar el riesgo 
 Compartir el riesgo 
 Retener el riesgo 
-Para asegurar el tratamiento del riesgo es importante determinar los controles necesarios (controles para detectar, controles para responder, controles para recuperarse oportunamente), los resultados de los procesos de valoración y tratamiento de riesgos, en algunos casos será necesario habilitar mas de un control para el tratamiento del riesgo de seguridad
+Para asegurar el tratamiento del riesgo es importante determinar los controles necesarios (controles para detectar, controles para responder, controles para recuperarse 
+oportunamente), los resultados de los procesos de valoración y tratamiento de riesgos, en algunos casos será necesario habilitar mas de un control para el tratamiento del 
+riesgo de seguridad
 
-Declaración de aplicabilidad 
+Declaración de aplicabilidad:
+
 Es un documento que contiene todos los controles determinados a los riesgos identificados
 La justificación para implementar el control
 Si el control se implementa o no 
 La justificación de la exclusión de cualquiera de los controles del anexo A
 
-Objetivos de segurida dde la información
+Objetivos de segurida de la información
 
 Objetivos de seguridad de la información
 Ayudar a implementar estrategias y la política de seguridad de la información 
@@ -50,7 +70,17 @@ Ayudar a especificar y medir el desempeño de los controles y procesos de seguri
 Los objetivos de la seguridad de la información deben ser:
 
 Coherentes con la política de seguridad de la información 
+
 Ser mediables para poder determinar si se ha cumplido con el objetivo de control 
 Cumplir con los resultados de la valoración y tratamiento de riesgo 
 Ser comunicados
 Actualizarse según sea apropiado
+
+Expresiones de los objetivos de seguridad 
+
+Valores numéricos con sus límites (no sobrepase un nivel determinado)
+Mediciones de desempeño
+Mediciones de la eficacia del SGSI
+Cumplimiento con los procedimientos del SGSI
+Cumplir con acciones y planes, cumplir con los criterios de riesgo
+
